@@ -1,0 +1,9 @@
+:root{
+  /* colors */
+  --color-white: rgb(255, 255, 255);
+  --color-black: rgb(0, 0, 0);
+  --color-green: rgb(0, 128, 0);
+  --color-red: rgb(255, 0, 0);
+  /* shadows */
+  --box-shadow-light: 0px 4px 8px 0px rgba(32, 32, 32, 0.3);
+}
